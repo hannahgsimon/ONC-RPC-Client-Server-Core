@@ -1,4 +1,4 @@
-# ONC RPC Client–Server System Core (C/C++)
+# ONC RPC Client–Server System Core
 
 This repository contains a client–server system implemented in C/C++ and validated on Linux across multiple terminals. The project demonstrates structured client–server communication, shared interface definitions, and correct coordination between independently executing processes.
 
